@@ -114,3 +114,12 @@ These issues were investigated and partially resolved during implementation.
 - Add conversational memory
 - Add production deployment
 
+## Chatflow Information
+
+Chatflow Name: chatflow1
+
+Chatflow ID:
+
+d8e5d767-72bc-4e4b-a29a-4ee602e2224b
+
+The chatflow was created successfully in Flowise and an API endpoint was generated. However, due to Flowise cloud configuration/retrieval issues, a complete exportable JSON workflow file could not be generated.
